@@ -18,5 +18,9 @@ def the_lazy_way():
     print(f"duration: {end} sec")
 
 
+def chunky():
+    return  # TODO
+
+
 if __name__ == "__main__":
     the_lazy_way()
